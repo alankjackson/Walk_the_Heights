@@ -1,0 +1,42 @@
+---
+title: "Heights Walk"
+author: "Alan Jackson"
+format:
+  html:
+    css: styles.css
+    html-math-method: katex
+  pdf:
+    documentclass: leaflet
+    pagesize: letterpaper
+    margin-left: 5mm
+    margin-right: 5mm
+    latex-engine: tinytex
+editor: visual
+---
+
+
+## A walk through the Houston Heights
+
+::: {layout-ncol="2"}
+The Heights is one of the older neighborhoods in Houston, founded in 1891 [^1]. The core of the neighborhood is Heights Boulevard, and most of our walk will be on or near that street. There actually used to be a street car line that went down Heights and ended up downtown, but that ended in the 1930's [^2].<br><br> This is a 3 mile (one way) walk through the core of the neighborhood, with a look at some of the history and many of the interesting buildings. This walk is split in two, so that you could either do a 3 mile round-trip, or a six mile round-trip.<br><br> There will also be a number of optional side-trips that will be pointed out along the way.
+
+![Full map of walk area](images/Full_map_Heights_test.png "Full Map"){fig-alt="Full map of walk area"}
+:::
+
+[^1]: City of Houston Historic Preservation Manual http://www.houstontx.gov/planning/HistoricPres/
+HistoricPreservationManual/historic_districts/heights.html
+
+[^2]: Houston History Magazine https://houstonhistorymagazine.org/wp-content/uploads/2011/11/V5-N2-Fuglaar-Streetcar.pdf
+
+Houston Heights (Images of Modern America)
+by Anne Sloan (2016)
+
+## Starting point
+
+We will start at the Waterworks, a fairly new development that took an old water treatment plant and repurposed the old buildings into a shopping and restaurant space.
+
+::: {.content-visible when-format="html"}
+
+![Water Works](images/WaterWorksPlaceholder.png "Waterworks"){fig-alt="Water Works"}
+
+:::
